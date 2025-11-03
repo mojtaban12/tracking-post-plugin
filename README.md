@@ -1,4 +1,7 @@
+افزونه نمایش لیست ارسالی های روزانه در سایت وردپرس مناسب فروشگاه های اینترنتی بزرگ. 
+
 محیط پنل ادمین که فایل اکسل با فرمت زیر باید بارگزاری شود 
+
 [کد پیگیری در سایت.xlsx](https://github.com/user-attachments/files/23300335/default.xlsx)
 
 <img width="1894" height="898" alt="image" src="https://github.com/user-attachments/assets/c790c360-bd6c-4437-9306-3d1fa834f424" />
