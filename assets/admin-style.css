@@ -1,0 +1,45 @@
+/* استایل صفحه مدیریت */
+.post-packages-admin {
+    direction: rtl;
+    text-align: right;
+}
+
+.post-packages-admin .card {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.post-packages-admin h2 {
+    margin-top: 0;
+    color: #23282d;
+}
+
+.post-packages-admin .form-table th {
+    text-align: right;
+    padding: 20px 10px 20px 0;
+}
+
+.post-packages-admin input[type="file"] {
+    padding: 5px;
+}
+
+.post-packages-admin .button-primary {
+    background: #0073aa;
+    border-color: #0073aa;
+    color: #fff;
+    padding: 8px 20px;
+    font-size: 14px;
+}
+
+.post-packages-admin .button-primary:hover {
+    background: #005177;
+    border-color: #005177;
+}
+
+.post-packages-admin code {
+    background: #f0f0f1;
+    padding: 3px 6px;
+    border-radius: 3px;
+    font-family: 'Courier New', monospace;
+}

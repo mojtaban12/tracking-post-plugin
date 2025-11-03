@@ -1,0 +1,7 @@
+{
+    "name": "post-packages/plugin",
+    "description": "WordPress Post Packages Management Plugin",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
